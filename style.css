@@ -304,6 +304,35 @@ body
     display:flex;
     align-items: center;
 }
+.xarita
+{
+    margin-left: 120px ;
+    margin-top: 50px;
+}
+.xarita-media
+{
+    display: none;
+}
+.red2
+{
+    width: 85%;
+    height: 200px;
+    /* border: 2px solid red; */
+    margin: auto;
+    margin-top: 100px;
+}
+.Pmnoga
+{
+    color: grey;
+    /* width: 900px; */
+}
+.xat
+{
+    width: 85%;
+    border-bottom: 4px solid gray;
+    margin: auto;
+    margin-top: 20px;
+}
 @media (max-width:510px) {
 .siyoh-glavni
 {
@@ -311,11 +340,42 @@ body
     height: 1200px;
     background-color: rgba(0, 0, 0, 0.905);
 }
+.xarita-media
+{
+    display: block;
+}
+.img-media-xar
+{
+    margin-left: 15px;
+}
 .poz
 {
     display: none;
     /* position: relative; */
     /* right: 300px; */
+}
+.div-xarita
+{
+    display: none;
+}
+.zhenwina
+{
+    width:100%;
+    height: 300px;
+    background-color: rgba(28, 33, 33, 1);
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 100px;
+}
+.div-flex-zhen
+{
+    flex-wrap: wrap;
+    row-gap: 30px;
+}
+.butt
+{
+    width: 86%;
+    margin-top: 30px;
 }
 .vnutri-media
 {
