@@ -333,6 +333,34 @@ body
     margin: auto;
     margin-top: 20px;
 }
+.red3
+{
+    width: 85%;
+    height: 200px;
+    /* border: 2px solid red; */
+    margin: auto;
+    margin-top: 50px;
+}
+.div-fin-fle
+{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    color: white;
+    align-items: center;
+}
+.div-row
+{
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+.xat2
+{
+    width: 85%;
+    border-bottom: 4px solid gray;
+    margin: auto;
+}
 @media (max-width:510px) {
 .siyoh-glavni
 {
@@ -343,6 +371,27 @@ body
 .xarita-media
 {
     display: block;
+}
+.div-fin-fle
+{
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
+    /* padding: 20px; */
+    color: white;
+    align-items: center;
+}
+.xat2
+{
+    width: 85%;
+    border-bottom: 4px solid gray;
+    margin: auto;
+    margin-top: 170px;
+}
+.xat
+{
+    margin-top: 500px;
 }
 .img-media-xar
 {
