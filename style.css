@@ -361,12 +361,31 @@ body
     border-bottom: 4px solid gray;
     margin: auto;
 }
+.finish
+{
+    display: flex;
+    color: gray;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.ppppp
+{
+    height: 40px;
+}
 @media (max-width:510px) {
 .siyoh-glavni
 {
     width: 100%;
     height: 1200px;
     background-color: rgba(0, 0, 0, 0.905);
+}
+.none
+{
+    display: none;
+}
+.ppppp
+{
+    height: 40px;
 }
 .xarita-media
 {
