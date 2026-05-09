@@ -277,6 +277,33 @@ body
     top: 120px;
     margin-left: 200px;
 }
+.zhenwina
+{
+    width: 800px;
+    height: 150px;
+    background-color: rgba(28, 33, 33, 1);
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 100px;
+}
+.iduvidialno
+{
+    color: white;
+    width: 400px;
+}
+.div-indi
+{
+    padding: 20px;
+}
+.zhen
+{
+    width: 200px;
+}
+.div-flex-zhen
+{
+    display:flex;
+    align-items: center;
+}
 @media (max-width:510px) {
 .siyoh-glavni
 {
